@@ -1,5 +1,7 @@
 ## Proyectos: ##
 ### Juego de marcianos basico usando Pygame ###
+Este proyecto tomo como base el video [del canal @PildorasDeProgramacion](https://www.youtube.com/watch?v=8u3qnaR69LA) creditos y gracias a su autor.
+
 
 ![Marcianitos](https://github.com/vhngroup/Pygame_Exercise/blob/main/Marcianitos/static/example.png)
 
