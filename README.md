@@ -11,7 +11,7 @@ Cada juego implementa diferentes logicas y ejemplo de programacion
 
 Usamos usamos el efecto Parallax para hacer que imagenes estaticas se muevan a diferentes velocidades, creando la sensacion de movimiento.
 
-![Tao Pai Pai](https://github.com/vhngroup/Pygame_Exercise/blob/main/Tao%20Pai%20Pai/images/TaoPaiPai.webp)
+![Tao Pai Pai](https://github.com/vhngroup/Pygame_Exercise/blob/main/Tao%20Pai%20Pai/files/TaoPaiPai.webp)
 
 #### Como usar?: ####
 * Recomendamos siempre usar entorno virtual venv.
